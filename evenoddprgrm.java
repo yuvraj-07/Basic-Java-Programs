@@ -11,7 +11,7 @@ public class evenoddprgrm {
         Scanner sc = new Scanner(System.in);
         num1 = sc.nextInt();
 
-        System.out.println("enter the nummber 1: ");
+        System.out.println("enter the nummber 2: ");
         num2 = sc.nextInt();
 
         if (num1 % 2 == 0 && num2 % 2 == 0) {
