@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class swapnumbers {
+public class swappingnumberscodes {
     
     public static void main(String[] args) {
         
